@@ -4,7 +4,7 @@ SerenSoak is a modern, elegant, and secure e-commerce platform focused on sellin
 
 🌿 **Live Demo**: [Visit Now](https://serensoak.onrender.com/)
 
-🔗 **GitHub Repository**: [SerenSoak GitHub](https://github.com/Shifani-golda/CodeAlpha_E-commerce-Store.git)
+🔗 **GitHub Repository**: [SerenSoak GitHub](https://github.com/AmrishCM/CodeAlpha_E-commerce_website.git)
 
 ---
 
@@ -157,7 +157,7 @@ Through SerenSoak, I gained hands-on experience in:
 
 If you have any suggestions or feedback, feel free to connect with me:
 
-📧 Email: shifanigolda@karunya.edu.in  
-💼 LinkedIn: [www.linkedin.com/in/shifani-golda-062028363](www.linkedin.com/in/shifani-golda-062028363)
+📧 Email: amrishmuruganathan@gmail.com 
+💼 LinkedIn: [www.linkedin.com/in/AmrishCM](www.linkedin.com/in/AmrishCM)
 
 > ⭐ If you found this project interesting or useful, give it a star on GitHub!
